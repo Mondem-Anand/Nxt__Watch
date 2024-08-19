@@ -23,5 +23,3 @@ The key components and functionalities of this project include:
 - **Security**: I established security measures by implementing protected routes. If a user attempts to access Home, Jobs, or Job Item Details routes without proper authentication, they are automatically redirected to the Login page.
 
 **Technologies used**: React JS, JS, CSS, Routing, REST API Calls, Local Storage, Cookies, JWT Token, Authorization, Authentication
-
-In summary, the Jobby App is a comprehensive job-search platform that leverages React's capabilities for creating a dynamic and secure user experience. It offers features like user authentication, job filtering, and seamless navigation while providing essential job details to help users find their ideal employment opportunities.
