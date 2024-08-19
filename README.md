@@ -7,11 +7,11 @@ In this project, I have developed the **Nxt-Watch**, an application that offers 
 
 ### Link: https://nxtwatch7854.ccbp.tech/login
 
-Login Credentials
+### Login Credentials
 
-Username: rahul
+### Username: rahul
 
-Password: rahul@2021
+### Password: rahul@2021
 
 
 The key components and functionalities of this project include:
