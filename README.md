@@ -5,6 +5,8 @@
 
 In this project, I have developed the **Nxt-Watch**, an application that offers a user-friendly platform for job seekers. Users can log in and access a comprehensive list of Nxt-Watch opportunities with various features, including search functionality by job title and filtering options based on salary range and employment type.
 
+You will demonstrate your skills by creating an app that will fetch data from an internal server using a component, routing concepts, authentication and authorization, and adding responsiveness to the website
+
 ### Link: https://nxtwatch7854.ccbp.tech/login
 
 ### Login Credentials
